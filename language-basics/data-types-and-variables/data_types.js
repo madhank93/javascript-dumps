@@ -37,6 +37,8 @@ n = 12.345;
 const bigInt = 1234567890123456789012345678901234567890n;
 
 // String (are represented in Double quotes, Single quotes, Backticks)
+// Double and single quotes are “simple” quotes. There’s practically no difference between them in JavaScript.
+// Backticks are “extended functionality” quotes. They allow us to embed variables and expressions into a string by wrapping them in ${…}, for example:
 let str = "Hello";
 let str2 = 'Single quotes are ok too';
 let phrase = `can embed another ${str}`; // String interpolation
