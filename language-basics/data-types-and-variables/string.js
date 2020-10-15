@@ -47,4 +47,7 @@ console.log(string.split())     // Changes to an array -> ["I am Madhan"]
 console.log(string.split(' '))  // Split to an array at space -> ["I", "am", "Madhan"]
 console.log(fruits.split(",")) // [ 'Apple', ' Mango', ' Papaya' ]
 
+// trim() - removes spaces in the beginning or the end of a string
+let msg = "   Learning JS    "
+console.log(msg.trim())
 
