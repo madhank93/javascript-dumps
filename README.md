@@ -21,3 +21,5 @@
 * [Mozilla javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 * [Airbnb javascript style guide](https://github.com/airbnb/javascript)
+
+* [Micrososft - Introduction to JavaScript](https://github.com/microsoft/beginners-intro-javascript-node)

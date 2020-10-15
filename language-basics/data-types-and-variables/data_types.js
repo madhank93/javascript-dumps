@@ -28,7 +28,7 @@ let myVeryLongName;
 let test123;
 const PI = 3.14;
 
-// Numbers
+// Numbers - Numbers are integers and decimal values
 let n = 123;
 n = 12.345;
 
@@ -36,9 +36,9 @@ n = 12.345;
 // the "n" at the end means it's a BigInt
 const bigInt = 1234567890123456789012345678901234567890n;
 
-// String (are represented in Double quotes, Single quotes, Backticks)
+// String (are represented in Double quotes, Single quotes, Back-ticks)
 // Double and single quotes are “simple” quotes. There’s practically no difference between them in JavaScript.
-// Backticks are “extended functionality” quotes. They allow us to embed variables and expressions into a string by wrapping them in ${…}, for example:
+// Back-ticks are “extended functionality” quotes. They allow us to embed variables and expressions into a string by wrapping them in ${…}, for example:
 let str = "Hello";
 let str2 = 'Single quotes are ok too';
 let phrase = `can embed another ${str}`; // String interpolation
