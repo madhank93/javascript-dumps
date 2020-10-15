@@ -22,4 +22,4 @@
 
 * [Airbnb javascript style guide](https://github.com/airbnb/javascript)
 
-* [Micrososft - Introduction to JavaScript](https://github.com/microsoft/beginners-intro-javascript-node)
+* [Microsoft - Introduction to JavaScript](https://github.com/microsoft/beginners-intro-javascript-node)
