@@ -10,6 +10,10 @@
 
 * [Javascript FreeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp#2-javascript-algorithms-and-data-structures-certification)
 
+### Books
+
+* [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+
 ### Docs
 
 * [Javascript info](https://javascript.info/)
