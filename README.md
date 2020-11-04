@@ -1,7 +1,8 @@
 # Javascript
 
 ## Language basics
-    - 001 Data types
+    - 001 Data types and variables
+    - 002 Operators
 
 ## Resources
 
