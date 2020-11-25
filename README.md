@@ -11,6 +11,14 @@
 
 * [Javascript FreeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp#2-javascript-algorithms-and-data-structures-certification)
 
+* [Javascript Odin project](https://www.theodinproject.com/courses/javascript)
+
+### Questions
+
+* [JS code challenges](https://github.com/sadanandpai/javascript-code-challenges)
+
+* [JS questions](https://github.com/lydiahallie/javascript-questions)
+
 ### Books
 
 * [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
